@@ -1,5 +1,9 @@
 node_modules/
 .next/
+.venv/
+__pycache__/
+*.py[cod]
+models/
 out/
 dist/
 npm-debug.log*

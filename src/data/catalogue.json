@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mindbender-89ti",
+    "name": "MINDbender 89Ti",
+    "category": "ALL-MOUNTAIN",
+    "styles": ["piste", "all_mountain"],
+    "width": "89 mm au patin",
+    "length_cm": 140,
+    "binding": "Marker Griffon 13 · 90 mm",
+    "note": "Précis sur piste, assez joueur pour sortir des traces.",
+    "price": 649,
+    "color": "#d5b58a"
+  },
+  {
+    "id": "qst-94",
+    "name": "QST 94",
+    "category": "FREERIDE · ALL-MOUNTAIN",
+    "styles": ["all_mountain", "freeride"],
+    "width": "94 mm au patin",
+    "length_cm": 150,
+    "binding": "Salomon Strive 12 · 100 mm",
+    "note": "Une ligne polyvalente pour chercher la neige fraîche.",
+    "price": 779,
+    "color": "#a8bdc1"
+  },
+  {
+    "id": "enforcer-94",
+    "name": "Enforcer 94",
+    "category": "ALL-MOUNTAIN · PERFORMANCE",
+    "styles": ["piste", "all_mountain"],
+    "width": "94 mm au patin",
+    "length_cm": 160,
+    "binding": "Marker Griffon 13 · 100 mm",
+    "note": "Stable et accrocheur, pour skier vite et avec confiance.",
+    "price": 899,
+    "color": "#bcaa91"
+  },
+  {
+    "id": "m-free-99",
+    "name": "M-Free 99",
+    "category": "FREERIDE · BIG MOUNTAIN",
+    "styles": ["freeride"],
+    "width": "99 mm au patin",
+    "length_cm": 165,
+    "binding": "Look Pivot 14 · 100 mm",
+    "note": "Du répondant, de la portance et une vraie liberté de mouvement.",
+    "price": 1049,
+    "color": "#b9b6ce"
+  },
+  {
+    "id": "mantra-102",
+    "name": "Mantra 102",
+    "category": "FREERIDE · EXPERT",
+    "styles": ["freeride", "all_mountain"],
+    "width": "102 mm au patin",
+    "length_cm": 170,
+    "binding": "Marker Jester 16 · 110 mm",
+    "note": "Une plateforme solide pour les grands espaces et les grandes journées.",
+    "price": 1249,
+    "color": "#d2a895"
+  }
+]
